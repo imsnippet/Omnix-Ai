@@ -1,0 +1,24 @@
+{
+  "name": "omnix-free",
+  "version": "2.0.0",
+  "description": "Omnix — 100% Free AI WhatsApp Assistant | No paid APIs needed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "better-sqlite3": "^9.4.3",
+    "dotenv": "^16.4.1",
+    "node-cron": "^3.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0",
+    "puppeteer": "^22.0.0",
+    "axios": "^1.6.7",
+    "fluent-ffmpeg": "^2.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
