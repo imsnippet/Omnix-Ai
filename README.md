@@ -2,6 +2,8 @@
 
 OMNIX is an advanced, AI-powered personal companion designed to provide an intelligent and empathetic conversational experience. It features voice interaction, persistent memory, emotional intelligence, smart reminders, and productivity analytics — all running locally in your browser with complete privacy.
 
+**Tags:** #ai-companion #voice-assistant #chatbot #gemini-api #web-speech-api #local-first #privacy-focused #javascript #pwa #emotional-intelligence #conversational-ai #nlp
+
 ## 🌟 Features
 
 - 💬 **Intelligent Conversations**: Natural language processing with contextual awareness and multi-turn dialogue
